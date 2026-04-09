@@ -1,2 +1,2 @@
 1.3
-https://github.com/ahmed-884-s/SM-T509-FlashTool/releases/download/latest/SM-T509-Flash-Tool-V1.0.exe
+https://github.com/ahmed-884-s/SM-T509-FlashTool/releases/download/latest/SM-T509-Flash-Tool-V1.3.exe
